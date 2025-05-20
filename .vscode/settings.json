@@ -1,0 +1,23 @@
+{
+	"robloxLsp.diagnostics.globals": [
+		"getgenv",
+		"Drawing",
+		"cloneref",
+		"gethui",
+		"isfolder",
+		"makefolder",
+		"isfile",
+		"writefile",
+		"readfile",
+		"messagebox",
+		"hookmetamethod",
+		"fireproximityprompt",
+		"hookfunction",
+		"newcclosure",
+		"getnamecallmethod",
+		"setclipboard",
+		"getreg",
+		"crypt",
+		"setfpscap"
+	]
+}
